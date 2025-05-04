@@ -33,7 +33,7 @@ ALLOWED_HOSTS = []
 # Environment variables
 SECRET_KEY = os.getenv('@^&xlz&hwse6j-fu5+yj33*^r)xg-+d5)^-rkw#kxr3^&&m!(s', "fallback_dev_secret")
 DEBUG = False
-ALLOWED_HOSTS = ['ai-recommender-k6wy.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://ai-recommender-xnsx.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
